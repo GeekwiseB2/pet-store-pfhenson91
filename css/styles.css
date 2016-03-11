@@ -44,3 +44,10 @@ h1, .h2, .h3, h1, h2, h3 {
 footer {
   background-color:#231F20;
 }
+footer .logo {
+  max-height:90px;
+}
+footer p {
+  text-align: center;
+  color:#fff;
+}
