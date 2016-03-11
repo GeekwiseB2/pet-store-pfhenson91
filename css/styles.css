@@ -1,0 +1,46 @@
+.container-fluid{
+  padding:0px;
+}
+.header .logo {
+  max-height:90px;
+}
+.header h1 {
+  color:#ff8079;
+  font-family: 'Satisfy', cursive;
+  display:inline;
+}
+.jumbotron {
+  background-image: url('../img/hero.jpg');
+  border-radius: 0px!important;
+  background-size:cover;
+  height:450px;
+  background-position: center;
+}
+h1, .h2, .h3, h1, h2, h3 {
+  text-align:center;
+}
+.jumbotron .slogan {
+  color:#fff;
+  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+.feature .thumbnail {
+  background-color: #edf1f4;
+}
+.list-group-item-heading {
+  text-align:center;
+  background-color: white;
+  color:#edf1f4;
+}
+.list-group-item-text {
+  text-align:center;
+  background-color: white;
+  color:#edf1f4;
+}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  background-color: white;
+}
+footer {
+  background-color:#231F20;
+}
